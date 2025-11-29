@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuario\\documents\\github\\cursoespecializacionc2\\cursoespecc2\\source\\cursoespecc2\\transformmodifieractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\documents\\github\\cursoespecializacionc2\\cursoespecc2\\intermediate\\build\\win64\\x64\\cursoespecc2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\documents\\github\\cursoespecializacionc2\\cursoespecc2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cursoespecc2\\definitions.cursoespecc2.h",
+            "c:\\users\\usuario\\documents\\github\\cursoespecializacionc2\\cursoespecc2\\source\\cursoespecc2\\transformmodifieractor.h",
+            "c:\\users\\usuario\\documents\\github\\cursoespecializacionc2\\cursoespecc2\\intermediate\\build\\win64\\unrealeditor\\inc\\cursoespecc2\\uht\\transformmodifieractor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
